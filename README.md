@@ -10,9 +10,9 @@ The data was cleaned and stored in a csv file.
 ## Project Aim
 The aim of this project is to analyse property data in Aberdeen Scotland and build a model to predict price of property based on the area class and number of bedrooms. 
 
-![Alt text](C:\Users\W10 User\Documents\DataScience\Aberdeen_House_Price_Analysis\Properties_available.jpg?raw=true "Title")
+![Alt text](Properties_available.jpg?raw=true "Title")
 
-![Alt text](C:\Users\W10 User\Documents\DataScience\Aberdeen_House_Price_Analysis\Avg_price.jpg?raw=true "Title")
+![Alt text](Avg_price.jpg?raw=true "Title")
 
 ## Conclusion
 Although the model is reasonably accurate at predicting property prices in Aberdeen there are still some outliers which are driving the model. 
