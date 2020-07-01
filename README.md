@@ -14,6 +14,8 @@ The aim of this project is to analyse property data in Aberdeen Scotland and bui
 
 ![Alt text](Avg_price.jpg?raw=true "Title")
 
+![Alt text](Std.jpg?raw=true "Title")
+
 ## Conclusion
 Although the model is reasonably accurate at predicting property prices in Aberdeen there are still some outliers which are driving the model. 
 The data shows that there are far more properties available in the cheaper areas than in the more expensive areas. 
